@@ -1,95 +1,77 @@
-### Les  Open badges
-18 juin 2019
+# L'économie de la donnée - Présentation des outils Framasoft
 
----
-### Qu'est-ce que c'est ?
-Un artefact technique qui permet de reconnaître les compétences informelles
+## Pourquoi récupérer des données ?
+* Donner des résultats plus pertinents
+* Mettre en avant les produits qui vont le plus intéresser
+* Mettre en avant les publications les plus pertinentes
 
----
+## Modèle économique des données
+* Vendre des espaces publicitaires les plus pertinents possibles
+* Définir des profils marketing
+* ex. schéma les données supagro
 
-### Techniquement
+## Usage des données par d'autres opérateurs
+* Prism
+* EU : Assurance, crédit
+* Chine : Capital social
+* Mise en place des outils de surveillance globale
 
-- une image |
-- avec des métadonnées |
-- infalsifiable |
-- format ouvert et interopérable |
+## Quelles données ?
+### Plusieurs types
+*  données données par les personnes
+*  données techniques
+*  données calculées en fonction des données précédentes
+	*  données calculées qui "comble les trous"
+	*  données calculées prospectives
 
-+++
+## Les données calculées
+* Big data : modèle statistique grâce à une masse de document
+	* Responsabilité : quand on donne ses données, on nourrit la bête
+* On sort de la logique de causalité pour entrer dans la logique de corrélation
 
-<iframe width="90%" height="560" src="https://openbadgepassport.com/app/profile/47273/embed" frameborder="0"></iframe>
- 
----
+## Quelles données sont récupérées ?
+* Ce que l'on écrit : mail, message Facebook, commentaire
+* Nos relations : contacts, amis, fréquence des relations, type de relation
+* Des données pour nous "identifier" : inscription, cookies, traceur, fingerprint
 
-### Comment sont-il attribués ?
-![Schéma illustrant le circuit de création et d'obtention des badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Badge_System_Overview_PennState_University_DR.jpeg  "Schéma illustrant le circuit de création et d'obtention des badges")
-Note:le backpack vérifie l'authenticité du badge
+## Les alternatives
+* Faire les réglages nécessaires pour échanger les données que l'on souhaite
+* Changer pour un service qui a un autre modèle économique
+	* Payant
+	* RGPD
+	* Associatif
 
----
+## L'exemple des outils proposés par Framasoft
+* Logique des chatons
+* 33 services
 
-### Les métadonnées
+### Quelques outils emblématiques
+* Framadate
+* Framaform
+* Framapad
+* Framasite
+* Framaliste
 
-![Les métadonnées contenues dans les badges](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/skills-to-pay-the-bills-1024x768.png  "Les métadonnées contenues dans les badges")
-
----
-
-### Quels éléments pour en créer un ?
-![Canevas pour concevoir un badge - Badgeons la Normandie](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Canevas_Badgeons_Normandie_001.png  "Canevas pour concevoir un badge - Badgeons la Normandie")
-
-+++
-![Canevas pour concevoir un badge - Badgeons la Normandie](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Canevas_Badgeons_Normandie_002.png  "Canevas pour concevoir un badge - Badgeons la Normandie")
-
-+++
-
-[Un canevas pour ne rien oublier](https://docs.google.com/document/d/1f0XgXcm8iFijAa5N1BMLGlQ6VRCjutEeJK5CxRFRQXk/edit)   
-(source : badgeons la Normandie)
-
----
-### Crédits
-
-- PennState University - Droits réservés
-- Bryan M. Mathers - Droits réservés
-
----
-
-# Pour aller plus loin
-
----
-
-### Quelle valeur ont-ils ?
-- Celle qu'on leur donne !
-- Réseau de confiance
-
-+++
-
-### Valeur donnée en fonction de 
-- Émetteur
-- Validateur
-- Endosseur
-- Critères 
-- Preuves
-- Place dans la collection
-
----
-
-### Un écosystème d'open badge permet 
-![Ce que les Open Badges apportent à l'individu](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_1-individu.png  "Ce que les Open Badges apportent à l'individu")
-
-+++
-
-### Un écosystème d'open badge permet 
-![Ce que les Open Badges apportent aux professionnels](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_2-professionnels.png  "Ce que les Open Badges apportent aux professionnels")
-
-+++
-### Un écosystème d'open badge permet 
-![Ce que les Open Badges apportent à la communauté](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_3-communaute.png  "Ce que les Open Badges apportent à la communauté")
-
-+++
-### Un écosystème d'open badge permet 
-![Ce que les Open Badges apportent au territoire](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_4-territoire.png  "Ce que les Open Badges apportent au territoire")
-
-
----
-### Crédits
-
-- Valentin Pasquier - Reconnaître - projet MIRVA - Droits réservés
+### La liste complète
+* Éditer > Framapad
+* Calculer > Framacalc
+* Enquêter > Framaforms
+* Organiser > Framagenda, Framadate, Framaboard
+* Structurer > Framindmap
+* Dessiner > Framavectoriel
+* Exposer > Framaslides
+* Collaborer > Framaestro
+* Rechercher > Framabee
+* Réseauter > Framasphère, Réseauter > Framapiaf
+* Discuter > Framateam, Framalistes, Framatalk
+* Décider > Framavox
+* Cogiter > Framemo
+* Noter > Framanotes
+* Suivre l’actualité > Framabag, Framanews
+* Cartographier > Framacarte
+* Jouer > Framagames, Framinetest
+* Partager > Framadrop, Framabin, Framapic, Framalink
+* Stocker > Framadrive, MyFrama
+* Coder > Framagit
+* Publier > Framasite, Framawiki
 

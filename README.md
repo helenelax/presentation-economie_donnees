@@ -1,5 +1,5 @@
-# Présentation sur les Open Badge
-Réalisée le 18 juin 2019 - Séminaire Réseau Pratiques sportives
+# Présentation sur l'économie de la donnée et les outils Framasoft
+Réalisée le 21 juin 2019 - Rencontres 48.digital
 
-https://gitpitch.com/helenelax/presentation-open_badge/master
+https://gitpitch.com/helenelax/presentation-economie_donnes/master
 

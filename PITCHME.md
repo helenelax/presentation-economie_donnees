@@ -5,9 +5,9 @@
 
 ### Pourquoi récupérer des données ?
 * Être le plus pertinent possible par rapport à la personne face à la masse disponible
-	* résultats moteur de recherche
-	* produit à vendre
-	* éditorialisation des publications
+	* résultats moteur de recherche |
+	* produits à vendre |
+	* éditorialisation des publications |
 ---
 
 ### Modèle économique des données
@@ -20,7 +20,7 @@
 ---
 
 ### Usage des données par d'autres opérateurs
-* Prism
+* Prism (E. Snowden)
 * EU : Assurance, crédit
 * Chine : Capital social
 * Mise en place des outils de surveillance globale
@@ -60,7 +60,7 @@
 ### Quelles données sont récupérées ?
 * Ce que l'on écrit : mail, message Facebook, commentaire |
 * Nos relations : contacts, amis, fréquence des relations, type de relation |
-* Des données pour nous "identifier" : inscription, cookies, traceur, fingerprint -
+* Des données pour nous "identifier" : inscription, cookies, traceur, fingerprint |
 * Données techniques : position, vitesse, type d'ordinateur, ... |
 
 ---
@@ -75,9 +75,10 @@
 ---
 
 ### L'exemple des outils proposés par Framasoft
-* Association |
-* Logique des Chatons |
-* 33 services |
+* Association 
+* Opération Dégooglisons Internet 
+* Logique des Chatons 
+* 33 services 
 
 ---
 

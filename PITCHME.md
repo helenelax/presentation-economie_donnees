@@ -1,18 +1,21 @@
-### L'économie de la donnée - Présentation des outils Framasoft
+### L'économie de la donnée
+### Présentation des outils Framasoft
 
 ---
 
 ### Pourquoi récupérer des données ?
-* Donner des résultats plus pertinents
-* Mettre en avant les produits qui vont le plus intéresser
-* Mettre en avant les publications les plus pertinentes
-
+* Être le plus pertinent possible par rapport à la personne face à la masse disponible
+	* résultats moteur de recherche
+	* produit à vendre
+	* éditorialisation des publications
 ---
 
 ### Modèle économique des données
-* Vendre des espaces publicitaires les plus pertinents possibles
+* Vendre des espaces publicitaires les plus individualisés
 * Définir des profils marketing
-* ex. schéma les données supagro
+
++++
+![Type de consommateurs pour analytics](http://www.lamerguez.com/presentations_GitPich/presentation-economie_donnees/Google_analytics.png)
 
 ---
 
@@ -29,40 +32,52 @@
 +++
 
 #### Plusieurs types
-*  données données par les personnes
-*  données techniques
-*  données calculées en fonction des données précédentes
-	*  données calculées qui "comble les trous"
-	*  données calculées prospectives
+*  données données par les personnes |
+*  données techniques |
+*  données calculées en fonction des données précédentes |
+	*  données calculées qui "comble les trous" |
+	*  données calculées prospectives |
 
 +++	
 
 ### Les données calculées
-* Big data : modèle statistique grâce à une masse de document
-	* Responsabilité : quand on donne ses données, on nourrit la bête
+
+![Visiteurs par age pour analytics](http://www.lamerguez.com/presentations_GitPich/presentation-economie_donnees/Google_analytics2.png)
+
++++
+
+### Les données calculées
+
+![Visteurs par genre pour analytics](http://www.lamerguez.com/presentations_GitPich/presentation-economie_donnees/Google_analytics3.png)
+
++++
+### Les données calculées
+* Big data : modèle statistique grâce à une masse de document et des ordinatuers puissants
 * On sort de la logique de causalité pour entrer dans la logique de corrélation
 
 ---
 
 ### Quelles données sont récupérées ?
-* Ce que l'on écrit : mail, message Facebook, commentaire
-* Nos relations : contacts, amis, fréquence des relations, type de relation
-* Des données pour nous "identifier" : inscription, cookies, traceur, fingerprint
+* Ce que l'on écrit : mail, message Facebook, commentaire |
+* Nos relations : contacts, amis, fréquence des relations, type de relation |
+* Des données pour nous "identifier" : inscription, cookies, traceur, fingerprint -
+* Données techniques : position, vitesse, type d'ordinateur, ... |
 
 ---
 
 ### Les alternatives
 * Faire les réglages nécessaires pour échanger les données que l'on souhaite
 * Changer pour un service qui a un autre modèle économique
-	* Payant
-	* RGPD
-	* Associatif
+	* Payant |
+	* RGPD |
+	* Associatif |
 
 ---
 
 ### L'exemple des outils proposés par Framasoft
-* Logique des chatons
-* 33 services
+* Association |
+* Logique des Chatons |
+* 33 services |
 
 ---
 
@@ -81,16 +96,19 @@
 * Enquêter > Framaforms
 * Organiser > Framagenda, Framadate, Framaboard
 * Structurer > Framindmap
++++
 * Dessiner > Framavectoriel
 * Exposer > Framaslides
 * Collaborer > Framaestro
 * Rechercher > Framabee
-* Réseauter > Framasphère, Réseauter > Framapiaf
+* Réseauter > Framasphère, Framapiaf
++++
 * Discuter > Framateam, Framalistes, Framatalk
 * Décider > Framavox
 * Cogiter > Framemo
 * Noter > Framanotes
 * Suivre l’actualité > Framabag, Framanews
++++
 * Cartographier > Framacarte
 * Jouer > Framagames, Framinetest
 * Partager > Framadrop, Framabin, Framapic, Framalink

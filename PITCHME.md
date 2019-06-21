@@ -1,5 +1,5 @@
-### L'économie de la donnée
-### Présentation des outils Framasoft
+### Que font Google et Facebook de nos données ?
+### Découvrez l'alternative des outils Framasoft
 
 ---
 
